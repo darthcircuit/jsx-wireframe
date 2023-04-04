@@ -1,3 +1,5 @@
 # Homework - JSX/React app from wireframe
 
-![](./homework_wireframe.png)
+Use JSX to build a React app that follows the following structure:
+
+![Homework Wireframe](homework_wireframe.png)
