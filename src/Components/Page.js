@@ -22,7 +22,7 @@ export default function Page() {
                 </div>
 
                 <div className="grid-image">
-                    <img src="https://picsum.photos/500" alt="" srcset="" />
+                    <img src="https://picsum.photos/300" alt="" srcset="" />
                 </div>
 
                 <div className="grid-text">    
@@ -32,7 +32,7 @@ export default function Page() {
                 </div>
 
                 <div className="grid-image">
-                    <img src="https://picsum.photos/500" alt="" srcset="" />
+                    <img src="https://picsum.photos/300" alt="" srcset="" />
                 </div>
             </div>
 
@@ -45,7 +45,10 @@ export default function Page() {
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, nulla nam. Doloremque neque enim ea similique sit corporis odio ipsum error rerum soluta, tenetur aliquid repellendus, consectetur voluptate facilis possimus.
                 </p>
             </div>
-
+            
+            <div className="button-wrapper">
+                 <button>Hey there. This is a button</button>
+            </div>
 
         </div>
     )
