@@ -1,10 +1,18 @@
 import Counter from "./Components/Counter"
-import Greeting from "./Components/Greeting"
+import Page from "./Components/Page"
+import Header from "./Components/Header"
 function App() {
   return (
     <div className="App">
-      <Greeting />
-      <Counter />
+      {/* <Greeting />
+      <Counter /> */}
+
+      <Header />
+
+      <Page />
+
+      
+
     </div>
   );
 }
