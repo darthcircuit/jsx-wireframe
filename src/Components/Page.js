@@ -19,6 +19,13 @@ export default function Page() {
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident expedita nam tempora molestiae deleniti deserunt! Ipsum sunt exercitationem ab natus quidem odit impedit, placeat eveniet laboriosam fugit optio ducimus! Molestiae.
                     </p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident expedita nam tempora molestiae deleniti deserunt! Ipsum sunt exercitationem ab natus quidem odit impedit, placeat eveniet laboriosam fugit optio ducimus! Molestiae.
+                    </p>
+                </div>
+
+                <div className="grid-image">
+                    <img src="https://picsum.photos/300" alt="" srcset="" />
                 </div>
 
                 <div className="grid-image">
@@ -29,10 +36,9 @@ export default function Page() {
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident expedita nam tempora molestiae deleniti deserunt! Ipsum sunt exercitationem ab natus quidem odit impedit, placeat eveniet laboriosam fugit optio ducimus! Molestiae.
                     </p>
-                </div>
-
-                <div className="grid-image">
-                    <img src="https://picsum.photos/300" alt="" srcset="" />
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident expedita nam tempora molestiae deleniti deserunt! Ipsum sunt exercitationem ab natus quidem odit impedit, placeat eveniet laboriosam fugit optio ducimus! Molestiae.
+                    </p>
                 </div>
             </div>
 
@@ -45,7 +51,7 @@ export default function Page() {
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, nulla nam. Doloremque neque enim ea similique sit corporis odio ipsum error rerum soluta, tenetur aliquid repellendus, consectetur voluptate facilis possimus.
                 </p>
             </div>
-            
+
             <div className="button-wrapper">
                  <button>Hey there. This is a button</button>
             </div>

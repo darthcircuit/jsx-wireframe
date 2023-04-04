@@ -1,0 +1,16 @@
+.footer {
+    width: 80%;
+    .social-wrapper {
+        display:flex;
+        width: 100%;
+        justify-content: flex-end;
+        padding: 20px;
+        .social-media-icon {
+            padding: 10px;
+        }
+    }
+
+    .copyright-wrapper {
+        font-weight: bold;
+    }
+}
